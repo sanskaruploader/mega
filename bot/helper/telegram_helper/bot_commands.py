@@ -1,22 +1,22 @@
 class _BotCommands:
     def __init__(self):
         self.StartCommand = 'start'
-        self.MirrorCommand = 'mirror'
-        self.UnzipMirrorCommand = 'unzipmirror'
-        self.TarMirrorCommand = 'tarmirror'
+        self.MirrorCommand = 'mega2'
+        self.UnzipMirrorCommand = 'unzipmega2'
+        self.TarMirrorCommand = 'tarmega2'
         self.CancelMirror = 'cancel'
         self.CancelAllCommand = 'cancelall'
         self.ListCommand = 'list'
         self.SpeedCommand = 'speedtest'
-        self.StatusCommand = 'status'
+        self.StatusCommand = 'mstatus'
         self.AuthorizeCommand = 'authorize'
         self.UnAuthorizeCommand = 'unauthorize'
         self.PingCommand = 'ping'
         self.RestartCommand = 'restart'
-        self.StatsCommand = 'stats'
+        self.StatsCommand = 'mstats'
         self.HelpCommand = 'help'
         self.LogCommand = 'log'
-        self.CloneCommand = "clone"
+        self.CloneCommand = "lol"
         self.WatchCommand = 'watch'
         self.TarWatchCommand = 'tarwatch'
         self.deleteCommand = 'del'
