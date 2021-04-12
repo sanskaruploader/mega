@@ -8,9 +8,9 @@
       "aria",
       "python"
     ],
-    "repository": "https://github.com/deaduserbot/mega2",
-    "website": "https://github.com/deaduserbot/mega2",
-    "success_url": "https://github.com/deaduserbot/mega2",
+    "repository": "https://github.com/sanskaruploader/mega",
+    "website": "https://github.com/sanskaruploader/mega",
+    "success_url": "https://github.com/sanskaruploader/mega",
     "stack": "container",
     "env": {
       "ENV": {
